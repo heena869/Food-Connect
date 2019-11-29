@@ -1,0 +1,62 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('../images/cd.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman';
+}
+
+h3 {
+    color: ghostwhite;
+}
+
+.label {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: normal;
+    color: ghostwhite;
+}
+
+.form-control {
+    background: transparent;
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 2px solid white;
+    font-size: 22px;
+    height: 40px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+input[type="checkbox"] {
+    margin-top: 10px;
+    height: 15px;
+    width: 15px;
+}
+
+small {
+    margin-top: 10px;
+    font-size: 19px;
+    color: ghostwhite;
+}
+
+.btn-info {
+    width: 150px;
+    font-size: 29px;
+    background-color: brown;
+    
+}
+
+.col-md-6 {
+    background: rgba(0,0,0,0.5);
+    box-shadow: -1px 1px 60px 10px black inset;
+    padding: 20px;
+    margin-top: 30px;
+}
+.col-sm-8{
+    
+}

@@ -1,0 +1,69 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('../images/cd.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman';
+}
+
+h1 {
+    font-size: 25px;
+    color: ghostwhite;
+   
+}
+
+.label {
+    font-size: 20px;
+   margin-top:12px;
+    font-weight: normal;
+    color: ghostwhite;
+}
+
+#RadioButtonList1 {
+    color: ghostwhite;
+    margin-top: 18px;
+    font-size: 19px;
+}
+
+.form-control {
+    background: transparent;
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 2px solid white;
+    font-size: 16px;
+    
+    color: white;
+}
+
+
+
+.col-md-6 {
+    background: rgba(0,0,0,0.5);
+    padding: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    box-shadow: -1px 1px 60px 10px black inset;
+}
+
+
+
+.dropdown {
+    margin-top: 10px;
+}
+
+.dropdown2 {
+    margin-top: 9px;
+}
+
+
+
+.btn-info {
+    background-color: brown;
+    margin-left: 200px;
+    width: 180px;
+    font-size: 22px;
+}

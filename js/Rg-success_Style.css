@@ -1,0 +1,38 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('../images/cd.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman';
+}
+
+#HyperLink1 {
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+.label {
+    font-size: 23px;
+    font-weight: normal;
+    color: ghostwhite;
+}
+
+#HyperLink2 {
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+.col-md-12 {
+    margin-bottom: 30px;
+}
+
+.col-md-6 {
+    background: rgba(0,0,0,0.5);
+    box-shadow: -1px 1px 60px 10px black inset;
+    padding: 30px;
+    margin-top: 170px;
+}

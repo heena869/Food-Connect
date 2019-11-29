@@ -1,0 +1,7 @@
+C:\Users\prabh\Documents\asp .net program\applied-project\applied-project\obj\Debug\applied-project.csprojAssemblyReference.cache
+C:\Users\prabh\Documents\asp .net program\applied-project\applied-project\obj\Debug\applied-project.csproj.CoreCompileInputs.cache
+C:\Users\prabh\Documents\asp .net program\applied-project\applied-project\bin\applied-project.dll.config
+C:\Users\prabh\Documents\asp .net program\applied-project\applied-project\bin\applied-project.dll
+C:\Users\prabh\Documents\asp .net program\applied-project\applied-project\bin\applied-project.pdb
+C:\Users\prabh\Documents\asp .net program\applied-project\applied-project\obj\Debug\applied-project.dll
+C:\Users\prabh\Documents\asp .net program\applied-project\applied-project\obj\Debug\applied-project.pdb
